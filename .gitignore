@@ -228,3 +228,5 @@ pip-log.txt
 *.jasper
 *.pdf
 *.xlsx
+*.bat
+*.exe
